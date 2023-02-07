@@ -10,3 +10,6 @@ I added ok as a title
 ```
 Import pandas as pd
 ```
+### Check boxes
+- [ ] Do stuff
+- [ ] Don't do stuff
